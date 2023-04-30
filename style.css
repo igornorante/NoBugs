@@ -7,14 +7,39 @@ body{
 }
 
 section{
-    background-color: aliceblue;
     border-radius: 10px;
     opacity: 5;
 }
 
 img#foto{
     border-radius: 10px;
-    max-width: 400px;
+    max-width: 350px;
     float: right;
     
+}
+
+p#Texto1{
+     font-size: medium;
+}
+
+img#fotoqueen{
+    border-radius: 10px;
+    max-width: 280px;
+    float: none;
+}
+img#popsmoke{
+    border-radius: 10px;
+    max-width: 280px;
+    float: center;
+}
+
+audio#queen{
+    border-radius: 10px;
+    max-width: 280px;
+}
+
+audio#popsmoke{
+    border-radius: 10px;
+    max-width: 280px;
+    float: center, 10px right;
 }
