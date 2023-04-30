@@ -91,3 +91,9 @@ div#blocotextos1{
     text-align: left;
 }
 
+h2#insta{
+    text-align: center;
+    font-size:smaller;
+    font-style: italic;
+    font-weight: 60;
+}
