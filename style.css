@@ -13,7 +13,7 @@ section{
 
 img#foto{
     border-radius: 10px;
-    max-width: 350px;
+    max-width: 300px;
     float: right;
     
 }
@@ -42,4 +42,51 @@ audio#popsmoke{
     border-radius: 10px;
     max-width: 280px;
     float: center, 10px right;
+}
+
+video#BF{
+    border-radius: 10px;
+    max-width: 350px;
+}
+
+video#COD{
+    border-radius: 10px;
+    max-width: 350px;
+}
+
+video#ELDEN{
+    border-radius: 10px;
+    max-width: 350px;
+}
+
+video#FORZA{
+    border-radius: 10px;
+    max-width: 350px;
+}
+img#getyou{
+    border-radius: 10px;
+    max-width: 280px;
+    float: center;
+}
+
+audio#getyou{
+    border-radius: 10px;
+    max-width: 280px;
+}
+
+section#secaomusicas{
+    float: center;
+
+}
+
+div#blocomusicas{
+    text-align: center;
+}
+
+div#blocovideos{
+    text-align: left;
+}
+
+div#blocotextos1{
+    text-align: left;
 }
